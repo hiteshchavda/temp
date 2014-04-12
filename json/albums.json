@@ -1,0 +1,75 @@
+{
+    "albums": [
+        {
+                "album_name": "Boss The Moive",
+                "album_art_image": "boss.jpg",
+                "album_songs_count": 5,
+				"album_json_url": "boss.json",
+				"album_release_timestamp": 1397288276
+        },
+        {
+                "album_name": "Phata Poster Nikala Hero",
+                "album_art_image": "ppnh.jpg",
+                "album_songs_count": 4,
+				"album_json_url": "ppnh.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Tum Mile",
+                "album_art_image": "tummile.jpg",
+                "album_songs_count": 8,
+				"album_json_url": "tummile.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Haseen Toh Phasee",
+                "album_art_image": "haseen.jpg",
+                "album_songs_count": 4,
+				"album_json_url": "haseen.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Heartless",
+                "album_art_image": "heartless.jpg",
+                "album_songs_count": 3,
+				"album_json_url": "heartless.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Highway",
+                "album_art_image": "highway.jpg",
+                "album_songs_count": 7,
+				"album_json_url": "highway.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Nach Baliye",
+                "album_art_image": "nach.jpg",
+                "album_songs_count": 8,
+				"album_json_url": "nach.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Rab Ne Bana Di Jodi",
+                "album_art_image": "rabne.jpg",
+                "album_songs_count": 6,
+				"album_json_url": "rabne.json",
+				"album_release_timestamp": 1397288276
+        },
+		{
+                "album_name": "Veer Zara",
+                "album_art_image": "veerzara.jpg",
+                "album_songs_count": 5,
+				"album_json_url": "veerzara.json",
+				"album_release_timestamp": 1397288276
+        },
+		
+		{
+                "album_name": "Yarriyaan",
+                "album_art_image": "yari.jpg",
+                "album_songs_count": 6,
+				"album_json_url": "yari.json",
+				"album_release_timestamp": 1397288276
+        }
+	]
+}
